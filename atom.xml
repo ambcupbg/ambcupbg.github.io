@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>BG Open - Go tournament</title>
+  <link href="http://gobgopen.github.io//atom.xml" rel="self"/>
+  <link href="http://gobgopen.github.io/"/>
+  <updated>2014-09-06T18:55:06.252Z</updated>
+  <id>http://gobgopen.github.io/</id>
+  <author>
+    <name>mihajlo</name>
+    <email>mihajlo.andjelic@gmail.com</email>
+  </author>
+
+  
+</feed>
